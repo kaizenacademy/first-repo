@@ -2,6 +2,5 @@
 #
 #
 
-aws ec-2 create vpc
 
-
+aws ec2 create vpc bla-bla-bla
